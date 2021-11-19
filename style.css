@@ -1,0 +1,28 @@
+.mainheader {
+    background-color: aquamarine;
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+}
+
+.recipelist {
+    font-size: 30px;
+    font-family: Arial, sans-serif;
+}
+
+.ingredientlist {
+    background-color: yellow;
+}
+
+dt {
+    background-color: plum;
+}
+
+h2 {
+    background-color: rgb(182, 182, 182);
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
+
